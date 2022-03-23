@@ -1,0 +1,29 @@
+body{
+    color: #e5e5e5;
+    font-size: x-large;
+    background-color: #61a5c2;
+}
+h1{
+    text-align: center;
+}
+.p{
+    text-align: center;
+}
+.container img{
+     width: 800px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+.fiat img{
+    width: 200px;
+    
+}
+.ford img{
+    width: 200px;
+
+}
+.volkswagen img{
+    width: 200px;
+}
